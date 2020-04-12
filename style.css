@@ -10,7 +10,7 @@ h1 {
 h2 {
     font-family: Lato;
     font-weight: normal;
-    color: #555555;
+    color: #778899;
 }
 
 #container p,
@@ -21,7 +21,7 @@ h2 {
     font-variant: normal;
     font-weight: 400;
     line-height: 20px;
-    color: #555555;
+    color: #778899;
 }
 
 #container {
@@ -33,7 +33,7 @@ h2 {
 .table {
     font-family: Lato;
     font-weight: normal;
-    color: #555555;
+    color: #778899;
 }
 
 .carousel-caption {
