@@ -4,24 +4,24 @@ green-blue #5cc6d0
 
 h1 {
     font-family: Lato;
-    color: #545454;
+    color: #555555;
 }
 
 h2 {
     font-family: Lato;
     font-weight: normal;
-    color: #545454;
+    color: #555555;
 }
 
 #container p,
 #container li {
     font-family: Lato;
-    font-size: 14px;
+    font-size: 16px;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     line-height: 20px;
-    color: #545454;
+    color: #555555;
 }
 
 #container {
@@ -33,7 +33,7 @@ h2 {
 .table {
     font-family: Lato;
     font-weight: normal;
-    color: #545454;
+    color: #555555;
 }
 
 .carousel-caption {
